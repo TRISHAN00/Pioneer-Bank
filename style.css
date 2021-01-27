@@ -1,0 +1,21 @@
+/* google fonts */
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@500;600;700;800&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Raleway", sans-serif;
+}
+.loginTitle h2 {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+}
+div#dashboard-area {
+  display: none;
+}
+button#loginBtn {
+  margin-top: 20px;
+}
